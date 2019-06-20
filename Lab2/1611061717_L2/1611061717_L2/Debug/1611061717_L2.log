@@ -1,0 +1,9 @@
+﻿  1611061717_L2.cpp
+d:\tuan2dhmt\1611061717_l2\1611061717_l2\1611061717_l2.cpp(44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\tuan2dhmt\1611061717_l2\1611061717_l2\1611061717_l2.cpp(93): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+d:\tuan2dhmt\1611061717_l2\1611061717_l2\1611061717_l2.cpp(94): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+d:\tuan2dhmt\1611061717_l2\1611061717_l2\1611061717_l2.cpp(95): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+d:\tuan2dhmt\1611061717_l2\1611061717_l2\1611061717_l2.cpp(96): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+d:\tuan2dhmt\1611061717_l2\1611061717_l2\1611061717_l2.cpp(147): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  1611061717_L2.vcxproj -> D:\Tuan2DHMT\1611061717_L2\Debug\1611061717_L2.exe
+  1611061717_L2.vcxproj -> D:\Tuan2DHMT\1611061717_L2\Debug\1611061717_L2.pdb (Full PDB)
